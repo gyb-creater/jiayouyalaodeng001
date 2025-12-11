@@ -1,31 +1,30 @@
 {
-  "greeting": "你好啊",
-  "name": "XX",
-  "greetingText": "很庆幸能在最美丽的年华遇见最美丽的你",
-  "wishText": "朱颜长似，头上花枝，岁岁年年。愿君青丝不老，岁岁皆欢。",
-  "imagePath": "img/lydia2.png",
-  "text1": "今天是你的生日啊!!! :D",
-  "textInChatBox": "非常非常非常诚挚的祝你生日快乐！！！很多很多的快乐……",
-  "sendButtonLabel": "发送",
-  "text2": "我想给你一个惊喜",
-  "text3": "我认真的想了很久",
-  "text4": "我认识到，我想要做一些",
-  "text4Adjective": "特殊的事情",
-  "text5Entry": "因为，",
-  "text5Content": "你对于我来说，很特殊",
-  "smiley": ":)",
-  "bigTextPart1": "所",
-  "bigTextPart2": "以",
-  "wishHeading": "生日快乐啊!",
-  "outroText": "我希望你喜欢这个小小的惊喜!",
-  "replayText": "如果你喜欢的话，可以再看一次哦!或者……",
-  "outroSmiley": ":)",
-  "music": "./music/bgMusic.mp3",
-  "fonts": [
-    {
-      "name": "Ma Shan Zheng",
-      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
-    }
-  ]
+"greeting": "叮咚！现在是2025年12月11日，距离副本-考研·开启还有——9天",
+"name": "老邓",
+"greetingText": "能坚持到现在的你，真的……很酷！",
+"wishText": "愿你笔下有光，上岸如风；愿你有锦鲤附体，也有实力carry全场。岁岁年年，不止此刻，每一个明天都在你的节奏里绝绝子！",
+"imagePath": "img/dss.png",
+"text1": "好吧！主要还是忍不住想给你加个油！！！(≧∇≦)ﾉ",
+"textInChatBox": "还是忍不住想准备一份赛博祝福给你！！！把所有的运气、锦鲤、还有光，统统塞进你的笔袋里……",
+"sendButtonLabel": "发射好运biu~",
+"text2": "我认真地想了很久我还是忍不住想做点东西",
+"text3": "我坐在工位上摸鱼想了半天",
+"text4": "还是忍不住像送你一些",
+"text4Adjective": "有魔法的东西",
+"text5Entry": "因为，",
+"text5Content": "你值得一切美好的事情，你会是最特别，最enery的那个人",
+"smiley": "✨",
+"bigTextPart1": "所",
+"bigTextPart2": "以",
+"wishHeading": "坚持住啊！稳住，我们能赢！",
+"outroText": "我喜欢看到你因为惊喜而笑起来的样子！如果看到这条祝福很开心，就让它埋在心里就行，不用回复我，沉默有时候挺好的，时间宝贵，等你考完以及我完成我的第一篇期刊出刊，我们一起把所有的压抑大声喊出去！",
+"replayText": "如果心情需要充电，就再看一次吧！或者……",
+"outroSmiley": "☕️",
+"music": "./music/单依纯 - 我管不住我自己.mp3",
+"fonts": [
+{
+"name": "Ma Shan Zheng",
+"path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
 }
-
+]
+}
